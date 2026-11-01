@@ -2,7 +2,7 @@ SETTING UP S3 BUCKET WITH STATIC WEBSITE ENABLED
 
 1. Type s3 on the AWS search bar
 2. click create bucket
-3. 
+ 
 ![CREATE_S3_BUCKET_POLICY.png](CREATE_S3_BUCKET.png)
 
 4. choose bucket type
